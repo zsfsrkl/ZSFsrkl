@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>美丽宝宝生日快乐！</title><style>
+        body {text-align: center;
+            background: url("丑鱼底2.jpeg");
+            background-size: cover;
+            background-position: high;
+            color: BLACK;
+            font-family: 华文琥珀;}
+        p {font-size: 28px;}
+</style>
+</head>
+<body>   
+<div id="header" style="background-color:rgba(255,255,255,0); font-family: 华文琥珀;font-size: 28px;">
+<h1 style="margin-bottom:1110;">  <br>美丽宝宝生日快乐呀！<img src="cy.jpg" alt="Smiley face" style="float:center" width="32" height="32"></br>    </h1></div>
+<div id="content" style="background-color:rgba(255,0,0,0);height:600px;width:1400px;float:center;font-family: 华文彩云;font-size: 28px;">
+<h4 style="margin-bottom:1000;">
+我的好宝宝呀！<br>
+作为你的好老公，我希望我的宝宝永远都是美丽的！
+</br>宝宝有时候总是为了自己的身材在焦虑，在不开心，
+<br>我想说的是！
+</br>这有什么呢！
+<br>我的宝宝只要健康就是最美丽的！
+</br>不需要去盲目追求什么白幼瘦！<br>只要你在，我就会一直爱你！</br>
+<br><img src="sc2.jpg"  style="float:center"width="127" height="170"></br>
+</h4></div><div id="header" style="background-color:#184ba0;">
+</body>
+</html>
